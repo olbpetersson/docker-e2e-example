@@ -1,0 +1,7 @@
+body {
+    background-color: cadetblue; !important;
+}
+
+#container > .jumbotron {
+    background-color: darkgray;
+}
