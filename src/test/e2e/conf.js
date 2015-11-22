@@ -4,6 +4,7 @@ exports.config = {
         browser.ignoreSynchronization = true;
     },
     params: {
-        port : 8080
+        host: "",
+        port: -1
     },
 };
